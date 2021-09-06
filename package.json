@@ -1,0 +1,31 @@
+{
+  "name": "emot-react-spinner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint '**/*.js'",
+    "lint:fix": "prettier-eslint '**/*.js' --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhsalaa/emot-react-spinner.git"
+  },
+  "keywords": [
+    "object",
+    "reverse",
+    "two-sides"
+  ],
+  "author": "muhsalaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhsalaa/emot-react-spinner/issues"
+  },
+  "homepage": "https://github.com/muhsalaa/emot-react-spinner#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier-eslint": "^13.0.0",
+    "prettier-eslint-cli": "^5.0.1"
+  }
+}
